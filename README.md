@@ -1,5 +1,5 @@
-# Simulation-based Performance Analysis of an NR-U and WiFi 
-Coexistence System in the Presence of Hidden Nodes 
+# Simulation-based Performance Analysis of an NR-U and WiFi Coexistence System in the Presence of Hidden Nodes
+ 
 This repository is a practical extension of the original coexistence study. The paper used a MATLAB-based model, while this project builds a real network environment in ns-3 to study the same problem more realistically.
 
 ## What this project studies
